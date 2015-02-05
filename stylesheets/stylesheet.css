@@ -19,35 +19,7 @@ a{text-decoration:none;}
 
 /*container*/
 #container .content{margin-top:0px;border:2px solid #006633;height:750px;width:976px}
-.content-txt{height:300px;margin-top:50px;margin-left:50px}
-.work{border:1px solid #CC9966;text-align:center;background-color:#FFFFCC	;}
-.table-title{font-weight:bold;color:#663333;background-color:#999966}
-.work td{border:1px solid #CC9966;width:80px;height:30px}
 
-.sudoku{margin-top:50px;font-size:20px;font-family:Comic Sans MS;font-weight:bold}
-.sudoku a{color:#993300}
-.sudoku a:hover{color:#336666}
-.wh50{width:140px;height:140px}
-
-.mt50{margin-top:50px}
-.sudoku1{background-color:#FFFFCC;}
-.sudoku2{background-color:#CCFFFF}
-.sudoku3{background-color:#FFCCCC}
-.sudoku4{background-color:#ccccff}
-.sudoku5{background-color:#ccff66}
-.sudoku6{background-color:#0099cc}
-.sudoku7{background-color:#ff99cc}
-.sudoku8{background-color:#99cccc}
-.sudoku9{background-color:#99cc00}
-
-.gallery{margin-top:50px;margin-right:50px}
-
-.gallery-img{border:2px dotted #339999;border-radius:10px;}
-.c-right-img{width:300px;padding:5px;border-radius:10px;}
-
-
-.tip{width:310px;height:170px ;border:2px dotted #339999;border-radius:10px;margin-top:10px}
-.tip-title{font-family:Comic Sans MS;color:#663333;font-weight:bold;padding:10px}
 
 .next{font-family:Comic Sans MS;color:#663333;font-weight:bold;padding:5px 20px;background-color:#CCCC99;margin-top:10px;border-radius:10px}
 /*footer*/
